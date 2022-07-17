@@ -1,0 +1,99 @@
+/* Navigation */
+.nav{
+    padding: 15px;
+    background-color: #2B3A42;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    color: #BDD3DE;
+    font-size: 30px;
+    margin: 0 45px;
+    text-decoration: none;
+}
+
+.logo:hover{
+    text-decoration: underline;
+    color: #BDD3DE;
+}
+
+.links{
+    color: #F0F0DF;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.links:hover{
+    text-decoration: underline;
+    color: #F0F0DF;
+}
+
+/* Content */
+.content{
+    background-color: #F0F0DF;
+    text-align: center;
+    height: 100vh;
+}
+
+/* Jumbtron CSS */
+.yazi{
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* cizgi */
+
+.cizgi{
+    border-bottom: 1px solid #FAA21B;
+    width: 75%;
+    margin: 25px auto;
+}
+
+/* bütün ürünler CSS */
+
+.all-products{
+    text-align: center;
+}
+
+.liste{
+    margin: 15px auto 0 auto;
+    text-align: center;
+    width: 25%;
+    padding: 0;
+}
+
+.liste li{
+    padding-top: 15px;
+    border-bottom: 1px solid #FAA21B;
+    list-style-type: none;
+}
+
+.liste p{
+    color: #3F5866;
+}
+
+/* About */
+
+.cBody{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+/* Products */
+
+.product{
+    padding: 15px;
+}
+
+.cCard{
+    border-radius: 15px!important;
+    border: 1px solid #BDD3DE;
+    background-color: #fff;
+    padding: 15px;
+}
+
+.cImage{
+    padding: 5px;
+}
